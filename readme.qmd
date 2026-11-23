@@ -1,0 +1,23 @@
+---
+title: "This needs to be a description of my project"
+format: gfm
+---
+
+## Introduction
+
+Talk about how wars effect spot prices
+
+
+
+## Data
+
+```{python}
+import pandas as pd
+
+```
+
+## Methods
+
+## Results
+
+## Discussion
